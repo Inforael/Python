@@ -28,3 +28,6 @@ print("5. Bake at 200 degrees C for 30 minutes.")
 # --------------------------------------------------
 
 print("Qual é seu nome\n Meu nome é:")
+print("hello" + "world")
+print("hello" + "" + " world")
+
