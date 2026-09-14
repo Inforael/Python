@@ -33,15 +33,63 @@
 
 # --------------------------------------------------
 
-name = "Saldanha"
-print(name)
+# name = "Saldanha"
+# print(name)
 
-name = "Jackson"
-print(name) 
+# name = "Jackson"
+# print(name) 
 
-name = input("qual é seu nome?")
-print(len(input("qual é seu nome?")))
+# name = input("qual é seu nome?")
+# print(len(input("qual é seu nome?")))
 
-nome = input("qual é seu nome?")
-tamanhoNome = len(nome)
-print(tamanhoNome)  
+# nome = input("qual é seu nome?")
+# tamanhoNome = len(nome)
+# print(tamanhoNome)  
+
+# --------------------------------------------------
+
+# print("welcome to the world of programming in python")
+# city = input("Qual é sua cidade?")
+# pet = input("Qual é seu animal de estinação!")
+# print("Olá, você mora em " + city + " e tem um(a) " + pet + ".")
+
+# Exercicio
+# # Fix the code below 👇
+
+# print(Notes from Day 1")
+#  print("The print statement is used to output strings")
+# print("Strings are strings of characters"
+# priint("String Concatenation is done with the + sign")
+# print(("New lines can be created with a \ and the letter n")
+
+
+# # Fix the code below 👇
+
+# print("Notes from Day 1")
+# print("The print statement is used to output strings")
+# print("Strings are strings of characters")
+# print("String Concatenation is done with the + sign")
+# print("New lines can be created with a \ and the letter n")
+
+#------------------------------------
+
+# Variables
+# We have 2 variables glass1 and glass2. 
+# glass1 contains milk and glass2 contains juice. 
+# Write 3 lines of code to switch the contents of the variables. 
+# You are not allowed to type the words "milk" or "juice". 
+# You are only allowed to use variables to solve this exercise.
+
+# tips 
+# Imagine you actually have a glass of milk 
+# and a glass of juice. 
+# How can you switch out the liquids in real life?
+
+# glass1 = "milk"
+# glass2 = "juice"
+
+# glass3 = glass1 
+# glass1 = glass2
+# glass2=glass3
+
+#------------------------------------
